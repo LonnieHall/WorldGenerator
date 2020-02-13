@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <CityNames>
+    <Name>Los Carbondales</Name>
+    <Name>Chicarterville</Name>
+    <Name>Yorkden</Name>
+    <Name>Tehranna</Name>
+    <Name>Springfheli</Name>
+    <Name>Alto Pari</Name>
+    <Name>Lisbarion</Name>
+    <Name>Joneseville</Name>
+    <Name>Murphysbordeaux</Name>
+    <Name>Jennis</Name>
+    <Name>Yapples</Name>
+    <Name>Relf</Name>
+    <Name>Hammerhelm</Name>
+    <Name>Jome</Name>
+    <Name>Lenitaville</Name>
+    <Name>Lotharia</Name>
+    <Name>Jessieville</Name>
+    <Name>Valoria</Name>
+    <Name>Frotos</Name>
+    <Name>Tuntz</Name>
+  </CityNames>
+  
+  <RegionNames>
+    <Name>Gritalian Hetmanate</Name>
+    <Name>Canaskan Khanate</Name>
+    <Name>Tsardom of VietGuam</Name>
+    <Name>Brazuvian Emirate</Name>
+    <Name>Kingdom of Turkabia</Name>
+    <Name>Eglobian Federation</Name>
+    <Name>Albezistani Dominion</Name>
+    <Name>Republic of Hispania</Name>
+    <Name>Muschrisew Sect</Name>
+    <Name>TexMex Territory</Name>
+    <Name>Chingolian Chiefdom</Name>
+    <Name>Congramen Confederacy</Name>
+    <Name>Denstraliad Despot</Name>
+    <Name>Slovanise Delegation</Name>
+    <Name>Council of Mojo</Name>
+    <Name>Onion Union</Name>
+    <Name>Khazadian Alliance</Name>
+    <Name>Framerican Legion</Name>
+    <Name>Anglarian Horde</Name>
+    <Name>Liborgain Consortium</Name>
+  </RegionNames>
+</Data>
+
+
